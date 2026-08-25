@@ -8,7 +8,7 @@ export const socialLinks = [
   {
     id: 'linkedin',
     label: 'LinkedIn',
-    url: 'https://linkedin.com/in/abdullahihassan', // Replace with your actual LinkedIn link
+    url: 'https://www.linkedin.com/in/abdullahi-hassan-3ab3071b6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be5%2BvWAp2TByVl4V1ElIn7g%3D%3D', // Replace with your actual LinkedIn link
     icon: 'Linkedin',
   },
   {
@@ -32,8 +32,8 @@ export const socialLinks = [
 ];
 
 export const contactInfo = {
-  email: 'abdullahi@example.com', // Replace with your actual email
-  phone: '+252 61 XXXXXXX', // Replace with your actual phone number
+  email: 'cabdulahixasan1714@gmail.com', // Replace with your actual email
+  phone: '+252 61 9292118', // Replace with your actual phone number
   location: 'Mogadishu, Somalia',
   university: 'Somali National University',
 };
